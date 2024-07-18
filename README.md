@@ -1,0 +1,1 @@
+# Ticket-6-Next-JS-Part-2
